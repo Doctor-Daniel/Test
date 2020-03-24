@@ -1,3 +1,4 @@
 maslo 3,20
 chleb 2,80
 ser	2,50
+mleko 1,50
