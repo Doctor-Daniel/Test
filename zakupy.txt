@@ -1,1 +1,2 @@
 maslo 3,20
+chleb 2,80
