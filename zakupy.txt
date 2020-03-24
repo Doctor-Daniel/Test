@@ -6,3 +6,4 @@ olej 2,10
 piwo 4,50
 ciastka 3,40
 cipsy 2,60
+wino 25,00
