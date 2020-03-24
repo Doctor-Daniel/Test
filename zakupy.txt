@@ -3,3 +3,5 @@ chleb 2,80
 ser	2,50
 mleko 1,50
 olej 2,10
+
+flaszka	5,50
