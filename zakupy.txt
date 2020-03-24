@@ -3,5 +3,9 @@ chleb 2,80
 ser	2,50
 mleko 1,50
 olej 2,10
-
-flaszka	5,50
+piwo 4,50
+ciastka 3,40
+cipsy 2,60
+wino 25,00
+kawa 23.20
+herbata 2,20
